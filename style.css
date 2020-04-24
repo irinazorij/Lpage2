@@ -1,0 +1,104 @@
+
+.container {
+    background-color: rgba(140, 82, 167, 0.918);
+    color: white;
+}
+.logo {
+    font-style: italic;
+}
+.ul-first buttton {
+    background-color: rgba(140, 82, 167, 0.918);
+    display: inline; 
+    
+}
+.hi_there {
+    text-align: center;
+}
+section.work_with_us {
+    text-align: center;
+}
+.orange {
+    background-color: sandybrown;
+}
+
+
+.second {
+    background-color: rgb(15, 194, 164);
+    color:white;
+}
+.servise {
+    text-align: center;
+}
+.servise_text {
+    text-align: center;
+}
+.branding, .design, .development, .rocket_science {
+    text-align: center;
+}
+img {
+    weight: 
+    hight:
+}
+
+.third {
+    background-color: grey;
+    color:black; 
+    text-align: center;
+}
+.small_team {
+    color: rgb(0, 217, 255);
+}
+.guru, .director, .designer, .developer {
+    text-align: center;
+}
+.anne, .kate, .olivia {
+    color: black;
+}
+.marketing_guru, .creative_director, .lead_designer,
+  .seo_developer {
+    color: rgb(0, 217, 255)
+}
+
+.fourth {
+    background-color: white;
+    color: black;
+    text-align: center;
+}
+  .percent_diagram {
+      display: inline;
+  }
+
+.fifth {
+    background-color: rgb(231, 180, 112);
+    text-align: center;
+}
+  .all-icons {
+    background-color:  rgb(200, 140, 40);
+    color: black;
+    display: inline;
+    button {
+        background-color: rgb(15, 194, 164);
+        color: white;
+    }    
+} 
+.sixth  {
+    background-color: rgb(255, 0, 242);
+    text-align: center;
+}  
+  .cursive {
+      font-style: cursive;
+  }
+
+.seventh {
+    background-color:  rgb(33, 95, 211);
+    text-align: center;  
+}
+
+footer {
+    background-color: rgb(33, 61, 221);
+    color: white;
+ul .footer {  
+    display: inline;
+}
+}
+
